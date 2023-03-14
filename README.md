@@ -4,14 +4,15 @@
 
 I'm a Full stack developer, Here you will find some projects and applications of some books that I have read, enjoy!
 
-Skills: *.NET 
-*SQL
-*Link
-*Entity Framework Core
-*HTML 
-*CSS 
-*Js 
-*Flutter
+Skills: 
+* .NET 
+* SQL
+* Link
+* Entity Framework Core
+* HTML 
+* CSS 
+* Js 
+* Flutter
 
 
 
